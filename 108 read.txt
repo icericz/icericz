@@ -1,0 +1,14 @@
+[Adblock Plus 2.0]
+! Version: 
+! Title: My Personal Filter List
+! Last modified: 
+! Expires: 7 days (update frequency)
+! Homepage: 
+!
+||www.108read.com/wp-content/uploads/2022/03/hotgraph.gif$image
+||www.108read.com/wp-content/uploads/2022/01/lockdown168.gif$image
+||www.108read.com/wp-content/uploads/2022/01/newyork168.gif$image
+||www.108read.com/wp-content/uploads/2022/01/london168.gif$image
+||www.108read.com/wp-content/uploads/2022/01/juad888.gif$image
+||www.108read.com/wp-content/uploads/2022/07/ufathegame.gif$image
+||www.108read.com/wp-content/uploads/2022/04/11552262659.gif$image
