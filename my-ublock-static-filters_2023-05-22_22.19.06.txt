@@ -1,0 +1,23 @@
+! 2023-05-22 https://ped-doujin.com
+ped-doujin.com##.text-center.ped-sort > [href]
+ped-doujin.com###ads_02 [href]
+ped-doujin.com###ads_03 [href]
+ped-doujin.com##div.kln:nth-of-type(3)
+ped-doujin.com##div.kln:nth-of-type(5)
+
+! 2023-05-22 https://www.rom-manga.com
+www.rom-manga.com##.ads
+www.rom-manga.com###readerarea-loading
+
+! 2023-05-22 https://www.ntr-manga.com
+www.ntr-manga.com##.header-ads-section
+
+! 2023-05-22 https://www.108read.com
+www.108read.com##.ads
+
+! 2023-05-22 https://manga168.com
+manga168.com##.dessert-frame > center
+manga168.com###ads_fix_footer > div
+manga168.com##div.kln:nth-of-type(3)
+manga168.com##div.kln:nth-of-type(6)
+
